@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dapitskie
-- 👀 I’m interested in Web Design
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning C++, PHP, Javascript, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
