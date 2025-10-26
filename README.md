@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @dapitskie<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning C++, PHP, Javascript, Python<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me<br>   - Instagram : @_briandavidd<br>😄 Pronouns: Pit<br>⚡ Fun fact: Bisa debugging masalah kehidupanmu
+👋 Hi, I’m @dapitskie<br>👀 I’m interested in Data Science and AI/ML<br>🌱 I’m currently learning C++, PHP, Javascript, Python<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me<br>   - Instagram : @_briandavidd<br>😄 Pronouns: Pit<br>⚡ Fun fact: Bisa debugging masalah kehidupanmu
 
 
 # 💻 Tech Stack:
